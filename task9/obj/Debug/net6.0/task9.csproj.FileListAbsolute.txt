@@ -1,0 +1,15 @@
+C:\GeekBrains\С#1\task9\bin\Debug\net6.0\task9.exe
+C:\GeekBrains\С#1\task9\bin\Debug\net6.0\task9.deps.json
+C:\GeekBrains\С#1\task9\bin\Debug\net6.0\task9.runtimeconfig.json
+C:\GeekBrains\С#1\task9\bin\Debug\net6.0\task9.dll
+C:\GeekBrains\С#1\task9\bin\Debug\net6.0\task9.pdb
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\task9.csproj.AssemblyReference.cache
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\task9.AssemblyInfoInputs.cache
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\task9.AssemblyInfo.cs
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\task9.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\task9.dll
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\refint\task9.dll
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\task9.pdb
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\task9.genruntimeconfig.cache
+C:\GeekBrains\С#1\task9\obj\Debug\net6.0\ref\task9.dll
